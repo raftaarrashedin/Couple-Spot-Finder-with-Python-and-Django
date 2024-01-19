@@ -18,7 +18,6 @@ Make sure you have the following installed before running the project:
 
 - Python 3.x
 - Django (version x.x.x)
-- [Any additional dependencies]
 
 ## Getting Started
 
